@@ -2,5 +2,5 @@
   <h1>Most Popular Dog Breeds</h1>
 </div>
 
-<p>Dogs are a very popular choice for pet in America, with almost 50% of people owning a dog. The number one selling dog breed this last year was</p>
+<p>Dogs are a very popular choice for pet in America, with almost 50% of people or familiesowning a dog. The number one selling dog breed this last year was French Bulldog, followed by Labrador Retriever and then Golden Retriever.</p>
 # dog-breeds
